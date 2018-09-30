@@ -1,0 +1,12 @@
+# Nmap 7.01 scan initiated Fri Sep 28 23:49:27 2018 as: nmap -n -o 8088 127.0.0.1
+Nmap scan report for 127.0.0.1
+Host is up (0.00013s latency).
+Not shown: 995 closed ports
+PORT      STATE SERVICE
+631/tcp   open  ipp
+3306/tcp  open  mysql
+4000/tcp  open  remoteanything
+5432/tcp  open  postgresql
+32777/tcp open  sometimes-rpc17
+
+# Nmap done at Fri Sep 28 23:49:27 2018 -- 1 IP address (1 host up) scanned in 0.08 seconds
